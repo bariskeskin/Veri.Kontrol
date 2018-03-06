@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Veri.Kontrol")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Kaynak kod: https://github.com/bariskeskin/Veri.Kontrol")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Veri.Kontrol")]
